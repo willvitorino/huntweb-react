@@ -19,7 +19,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "up-files": "push-dir --dir=dist --branch=gh-pages --cleanup",
-    "deploy": "yarn build && cp -r build/ docs/ && git add . && git commit -m 'deploy' && git push"
+    "deploy": "yarn build && rm -rf docs/huntweb-react/* && cp -r build/ docs/huntweb-react/ && git add . && git commit -m 'deploy' && git push"
   },
   "eslintConfig": {
     "extends": "react-app"
