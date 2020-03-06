@@ -7,8 +7,11 @@ import api from '../../services/api'
 
 export default class products extends Component {
 
-  state = {
-    product: {}
+  constructor(props) {
+    super(props)
+    this.state = {
+      product: {}
+    }
   }
 
   componentDidMount() {

@@ -8,11 +8,10 @@ import './styles.css';
 
 export default class main extends Component {
 
-  state = {
-    products: [],
-    filter: {},
-    page: 1
-  };
+  constructor(props) {
+    super(props)
+    this.state = { products: [], filter: {}, page: 1 }
+  }
 
   loadProducts = (page = 1) => {
     api.get('https://rocketseat-node.herokuapp.com/api/products', { params: { page } }).then(
