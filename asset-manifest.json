@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/huntweb-react/static/css/main.0c2e6f8d.chunk.css",
+    "main.js": "/huntweb-react/static/js/main.376ff5d3.chunk.js",
+    "main.js.map": "/huntweb-react/static/js/main.376ff5d3.chunk.js.map",
+    "runtime-main.js": "/huntweb-react/static/js/runtime-main.8249d8d6.js",
+    "runtime-main.js.map": "/huntweb-react/static/js/runtime-main.8249d8d6.js.map",
+    "static/js/2.f0c76f80.chunk.js": "/huntweb-react/static/js/2.f0c76f80.chunk.js",
+    "static/js/2.f0c76f80.chunk.js.map": "/huntweb-react/static/js/2.f0c76f80.chunk.js.map",
+    "index.html": "/huntweb-react/index.html",
+    "precache-manifest.04d7dc65bc27cde747f963a6eea28826.js": "/huntweb-react/precache-manifest.04d7dc65bc27cde747f963a6eea28826.js",
+    "service-worker.js": "/huntweb-react/service-worker.js",
+    "static/css/main.0c2e6f8d.chunk.css.map": "/huntweb-react/static/css/main.0c2e6f8d.chunk.css.map",
+    "static/js/2.f0c76f80.chunk.js.LICENSE.txt": "/huntweb-react/static/js/2.f0c76f80.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8249d8d6.js",
+    "static/js/2.f0c76f80.chunk.js",
+    "static/css/main.0c2e6f8d.chunk.css",
+    "static/js/main.376ff5d3.chunk.js"
+  ]
+}
